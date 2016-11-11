@@ -1,0 +1,117 @@
+body{
+	width:850px;
+	margin-left:250px;
+	border:1px solid lightsteelblue;
+	padding-bottom: 20px;
+	}
+header{
+	margin: 0;
+	padding: 0;
+	border:0;
+}	
+.ltitle{
+	margin: 0;
+	font-size:1.25em;
+	color:#6495ED;
+	font-weight: bold;	
+	padding: 0;
+	border:0;
+}	
+header .me{
+   font-size:35px;
+   color: #4682B4;
+   font-weight: bold;
+   padding-left: 60px;;
+   }
+
+#my_school{
+	font-size: 8px;
+	color:gray;
+    position: absolute;
+    width:300px;
+	right:12%;
+	top:7%;
+	}
+.story_title{
+	margin: 0;
+	padding: 0;
+	border:0;
+	position: absolute;
+	top:185px;
+	left:650px;
+}
+#tableContainer{display: table; 
+display: table-row; }
+
+	
+	
+#my_message{
+	display: table-cell;
+	font-size:1em;
+	padding-left: 40px;
+	width:200px;
+	
+}	
+#my_story{
+	display:table-cell;
+    width:600px;
+    line-height: 2.5em;
+    font-size:0.9em;
+}
+#my_story li{
+	list-style-type:circle;
+}
+#my_evaluation{
+	width:500px;
+	display: table-cell;
+	padding-left:20px;
+}
+#my_evaluation .ltitle{padding-left:20px;}
+.my_evaluation_text{
+	font-size:0.85em;
+	border: 1.8px dotted #4682B4;
+	border-bottom-right-radius: 3em;
+	border-top-left-radius: 3em;
+	padding: 12px;
+}
+
+.my_evaluation_text span{
+	color:#6495ED;
+	
+}
+#my_skill{
+	display: table-cell;
+	padding-left:50px; /*使得左右有一定的间距*/
+    font-size: 0.9em;
+   
+   
+}
+.my_skill_name{
+	font-family: arial;
+	 text-align: right;
+	 padding-right:220px;
+	}
+.my_skill_name span{
+	padding-right: 10px;
+	text-align: right;
+}	
+#my_activity{
+	padding-left: 30px;
+	font-size:0.85em;
+	
+}
+.my_activity_text{
+	line-height: 2em;
+	padding:20px;
+	padding-top: 0;
+}
+
+
+.ltitle{                   
+	margin: 0;
+	font-size:20px;
+	color:#4682B4;
+	font-weight: bold;	
+	padding: 0;
+	border:0;
+}	
