@@ -1,6 +1,6 @@
 ## 个人展示DEMO
 
-这个文件夹包含三个子文件夹：myForm、my_CV和mycalendar。
+这个文件夹包含两个子文件夹：myForm和mycalendar。
 
 ### myForm：
 
